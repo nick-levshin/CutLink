@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nick-levhin CutLink",
+  "mongoUri": "mongodb+srv://nick-levshin:228322@cluster0.gfg2z.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
